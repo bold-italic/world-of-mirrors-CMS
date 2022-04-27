@@ -1,0 +1,35 @@
+/*--
+
+    Description: Styles for HTML section of all PHP files.
+
+--*/
+body {
+    background-color: #D4D4D4;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+main {
+    width: auto;
+    margin: 10px 200px;
+    padding: 10px;
+    background: #F7F7F7;
+    border: 1px solid #A0A0A0;
+    box-shadow: 1px 1px 3px #CFCFCF, -1px 1px 3px #CFCFCF;
+    border-radius: 8px;
+}
+
+header {
+    text-align: center;
+    margin: 20px 0px;
+}
+
+h3 {
+    margin: 20px 0px ;
+}
+
+.error {
+    color: red;
+    font-style: italic;
+    margin-top: 5px;
+}
