@@ -12,7 +12,7 @@ The content includes:
 
 #### Database Structure
 
-![ERD](https://github.com/bold-italic/world-of-mirrors-CMS/assets/101299696/e2ca6e4c-e405-4ef6-93db-68e00b2c7fd2)
+![ERD](https://github.com/bold-italic/world-of-mirrors-CMS/assets/101299696/0569da8f-c84b-4242-a6f9-2b17282588b8)
 
 Tables description:
 
